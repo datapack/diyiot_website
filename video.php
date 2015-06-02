@@ -18,7 +18,7 @@
           <ul class="nav nav-sidebar">
             <li class="active"><a href="#">Overview <span class="sr-only">(current)</span></a></li>
             <li><a href="photos.php">Photos</a></li>
-            <li><a href="team.php">Team Members</a></li>
+            <li><a href="/team.php">Team Members</a></li>
             <li><a href="#">Video</a></li>
           </ul>
           <ul class="nav nav-sidebar">
@@ -29,6 +29,9 @@
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" style="margin-top: 100px;">
           <h1 class="page-header">Dashboard</h1>
+		  <div class="img">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfEbMV295Kk" frameborder="0" allowfullscreen></iframe>
 		</div>
 	  </div>
 	</div>
