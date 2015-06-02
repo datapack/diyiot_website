@@ -32,26 +32,26 @@
 		  <div class="img">
 		  	
 <div class="img">
-  <a target="_blank" href="photos/20150512_202022.jpg">
-    <img src="photos/20150512_202022.jpg" alt="Klematis" width="110" height="90">
+  <a target="_blank" href="http://www.obd-reader.com/blog/images/OBDII.jpg">
+    <img src="http://www.obd-reader.com/blog/images/OBDII.jpg" alt="Klematis" width="110" height="90">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 <div class="img">
-  <a target="_blank" href="photos/20150512_202033.jpg">
-    <img src="photos/20150512_202033.jpg" alt="Klematis" width="110" height="90">
+  <a target="_blank" href="http://www.obd-reader.com/blog/images/OBDII.jpg">
+    <img src="http://www.obd-reader.com/blog/images/OBDII.jpg" alt="Klematis" width="110" height="90">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 <div class="img">
-  <a target="_blank" href="photos/20150512_202042.jpg">
-    <img src="photos/20150512_202042.jpg" alt="Klematis" width="110" height="90">
+  <a target="_blank" href="http://www.obd-reader.com/blog/images/OBDII.jpg">
+    <img src="http://www.obd-reader.com/blog/images/OBDII.jpg" alt="Klematis" width="110" height="90">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 <div class="img">
-  <a target="_blank" href="photos/20150512_202057.jpg">
-    <img src="photos/20150512_202057.jpg" alt="Klematis" width="110" height="90">
+  <a target="_blank" href="http://www.obd-reader.com/blog/images/OBDII.jpg">
+    <img src="http://www.obd-reader.com/blog/images/OBDII.jpg" alt="Klematis" width="110" height="90">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
