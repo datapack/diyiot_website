@@ -28,7 +28,7 @@
       
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" style="margin-top: 100px;">
-          <h1 class="page-header">Dashboard</h1>
+          <h1 class="page-header">Our Team</h1>
 		  <div class="img">
   <a target="_blank" href="https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/10615373_10152453607024608_5075370197543834252_n.jpg?oh=8a6b58b770bcbf80e0d3f6c4cca306dd&oe=55FF2013">
     <img src="https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/10615373_10152453607024608_5075370197543834252_n.jpg?oh=8a6b58b770bcbf80e0d3f6c4cca306dd&oe=55FF2013" alt="Klematis" width="110" height="90">
