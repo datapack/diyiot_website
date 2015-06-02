@@ -18,12 +18,12 @@
           <ul class="nav nav-sidebar">
             <li class="active"><a href="#">Overview <span class="sr-only">(current)</span></a></li>
             <li><a href="photos.php">Photos</a></li>
-            <li><a href="/team.php">Team Members</a></li>
+            <li><a href="team.php">Team Members</a></li>
             <li><a href="#">Video</a></li>
           </ul>
           <ul class="nav nav-sidebar">
-            <li><a href="">Design</a></li>
-            <li><a href="#">Hardware</a></li>
+            <li><a href="design.php">Design</a></li>
+            <li><a href="hardware">Hardware</a></li>
 			</ul>
       
         </div>
