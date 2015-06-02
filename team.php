@@ -19,7 +19,7 @@
             <li class="active"><a href="#">Overview <span class="sr-only">(current)</span></a></li>
             <li><a href="photos.php">Photos</a></li>
             <li><a href="team.php">Team Members</a></li>
-            <li><a href="#">Video</a></li>
+            <li><a href="video.php">Video</a></li>
           </ul>
           <ul class="nav nav-sidebar">
             <li><a href="design.php">Design</a></li>

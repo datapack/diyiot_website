@@ -29,6 +29,8 @@
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" style="margin-top: 100px;">
           <h1 class="page-header">Dashboard</h1>
+		  
+		  <img src="http://fermentationriot.com/images/arduinoPID.jpg" alt="arduino" style="width:600px;height:344px;">
 		</div>
 	  </div>
 	</div>

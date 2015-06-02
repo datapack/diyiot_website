@@ -29,12 +29,12 @@
 	  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Projects <span class="caret"></span></a>
 	  <ul class="dropdown-menu" role="menu">
 		<li><a href="car.php">Car</a></li>
-		<li><a href="#">Arduino Sensors</a></li>
-		<li><a href="#">Raspberry serial data</a></li>
+		<li><a href="underconstruction.php">Arduino Sensors</a></li>
+		<li><a href="underconstruction.php">Raspberry serial data</a></li>
 		<li class="divider"></li>
-		<li><a href="#">Raspberry Web interface</a></li>
+		<li><a href="underconstruction.php">Raspberry Web interface</a></li>
 		<li class="divider"></li>
-		<li><a href="#">Wireless Access point</a></li>
+		<li><a href="underconstruction.php">Wireless Access point</a></li>
 				</li>
 			</ul>
 		</div>

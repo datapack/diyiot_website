@@ -17,21 +17,14 @@
         <div class="col-sm-3 col-md-2 sidebar">
           <ul class="nav nav-sidebar">
             <li class="active"><a href="#">Overview <span class="sr-only">(current)</span></a></li>
-            <li><a href="photos.php">Photos</a></li>
-            <li><a href="team.php">Team Members</a></li>
-            <li><a href="#">Video</a></li>
-          </ul>
-          <ul class="nav nav-sidebar">
-            <li><a href="design.php">Design</a></li>
-            <li><a href="hardware.php">Hardware</a></li>
-			</ul>
+
       
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" style="margin-top: 100px;">
-          <h1 class="page-header">Car Project Videos</h1>
+          <h1 class="page-header">Coming Soon</h1>
 		  <div class="img">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sfEbMV295Kk" frameborder="0" allowfullscreen></iframe>
+<iframe width="693" height="693" src="http://www.abdelhadi-ip.com/images/under-construction-green-yellow.gif" frameborder="0" allowfullscreen></iframe>
 		</div>
 	  </div>
 	</div>
