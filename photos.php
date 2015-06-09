@@ -5,6 +5,9 @@
 
 	<?php include('head.php'); ?>
 
+
+  <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+   <script src="photo-gallery.js"></script>
 </head>
 
 <body id="page-top" class="index">
@@ -31,116 +34,94 @@
           <h1 class="page-header">Photos</h1>
 		  <div class="img">
 		  	
-<div class="img">
-  <a target="_blank" href="photos/20150512_202022.jpg">
-    <img src="photos/20150512_202022.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="photos/20150512_202033.jpg">
-    <img src="photos/20150512_202033.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="photos/20150512_202042.jpg">
-    <img src="photos/20150512_202042.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="photos/20150512_202057.jpg">
-    <img src="photos/20150512_202057.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-<div class="img">
-  <a target="_blank" href="photos/20150526_190034.jpg">
-    <img src="photos/20150526_190034.jpg" alt=" photo 5" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190038.jpg">
-    <img src="photos/20150526_190038.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190037.jpg">
-    <img src="photos/20150526_190037.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190041.jpg">
-    <img src="photos/20150526_190041.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190047.jpg">
-    <img src="photos/20150526_190047.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190050.jpg">
-    <img src="photos/20150526_190050.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190115.jpg">
-    <img src="photos/20150526_190115.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+<ul class="row">
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150512_202022.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150512_202033.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150512_202042.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150512_202057.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190037.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190038.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190034.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190041.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190047.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190050.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190115.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190121.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190132.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190139.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190234.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190315.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_190748.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="photos/20150526_191158.jpg">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="http://www.apartma-zvegelj.com/images/emptyMME.gif">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="http://www.apartma-zvegelj.com/images/emptyMME.gif">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="http://www.apartma-zvegelj.com/images/emptyMME.gif">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="http://www.apartma-zvegelj.com/images/emptyMME.gif">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="http://www.apartma-zvegelj.com/images/emptyMME.gif">
+            </li>
+            <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+                <img class="img-responsive" src="http://www.apartma-zvegelj.com/images/emptyMME.gif">
+            </li>
+          </ul>             
+		</div>
+	  </div>
+	</div>
+	
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">         
+          <div class="modal-body">                
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+	
 
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190121.jpg">
-    <img src="photos/20150526_190121.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190132.jpg">
-    <img src="photos/20150526_190132.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190139.jpg">
-    <img src="photos/20150526_190139.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190234.jpg">
-    <img src="photos/20150526_190234.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190315.jpg">
-    <img src="photos/20150526_190315.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190339.jpg">
-    <img src="photos/20150526_190339.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_190748.jpg">
-    <img src="photos/20150526_190748.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-</div><div class="img">
-  <a target="_blank" href="photos/20150526_191158.jpg">
-    <img src="photos/20150526_191158.jpg" alt="Klematis" width="110" height="90">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
 
 	
 		</div>

@@ -35,25 +35,25 @@
   <a target="_blank" href="http://www.obd-reader.com/blog/images/OBDII.jpg">
     <img src="http://www.obd-reader.com/blog/images/OBDII.jpg" alt="Klematis" width="110" height="90">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">.</div>
 </div>
 <div class="img">
   <a target="_blank" href="http://www.obd-reader.com/blog/images/OBDII.jpg">
     <img src="http://www.obd-reader.com/blog/images/OBDII.jpg" alt="Klematis" width="110" height="90">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">.</div>
 </div>
 <div class="img">
   <a target="_blank" href="http://www.obd-reader.com/blog/images/OBDII.jpg">
     <img src="http://www.obd-reader.com/blog/images/OBDII.jpg" alt="Klematis" width="110" height="90">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">.</div>
 </div>
 <div class="img">
   <a target="_blank" href="http://www.obd-reader.com/blog/images/OBDII.jpg">
     <img src="http://www.obd-reader.com/blog/images/OBDII.jpg" alt="Klematis" width="110" height="90">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">.</div>
 </div>
 	
 
