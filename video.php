@@ -32,6 +32,8 @@
 		  <div class="img">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2xCsMaIzryE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TLet72gVBeM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vX_ROSwcS3M" frameborder="0" allowfullscreen></iframe>
 		</div>
 	  </div>
 	</div>
